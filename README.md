@@ -4,7 +4,7 @@ Here, I will share my Python scripts to speed up my video editing on EDIUS softw
 
 ## Introduction
 
-My first script is designed to create speaker ID markers for Acoustica (Acon Digital) and EDIUS. Acoustica has automatic speech recognition and transcription capabilities, but Whisper provides superior results. In addition to caption text, captions can be associated with different actors (speaker IDs), and each actor can be assigned a unique color. However, this process needs to be done manually.
+My first script is designed to create speaker ID markers for Acoustica (Acon Digital) and EDIUS. Acoustica has automatic speech recognition and transcription capabilities, but Whisper provides superior results. Acoustica will also associate the captions (subtitles) with different actors (speaker IDs), and each actor can be assigned a unique color. However, this process needs to be done manually in Acoustica.
 
 To streamline this workflow, I use WhisperX, developed by m-bain. WhisperX is a cutting-edge extension of OpenAI's Whisper model, enhancing it with advanced features like word-level timestamps and speaker diarization.
 
